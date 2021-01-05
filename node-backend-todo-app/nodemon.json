@@ -1,0 +1,7 @@
+{
+  "env": {
+    "MONGO_USER": "smv",
+    "MONGO_PASSWORD": "srimv",
+    "MONGO_DB": "todo-list"
+  }
+}
